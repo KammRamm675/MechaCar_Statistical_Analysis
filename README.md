@@ -1,5 +1,5 @@
 # Purpose 
-The purpose of his analysis is to collect data from vehicle manufacturing of a prototype
+The purpose of this analysis is to collect data from vehicle manufacturing of a prototype (Mecha)
 
 ## Linear Regression to Predict MPG (Please refer to image: Linear Regression Output)
 
